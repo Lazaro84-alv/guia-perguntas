@@ -6,6 +6,7 @@
 - Node;
 - JavaScript;
 - EJS;
+- Bootstrap;
 - MySQL
 
 ![guiaperguntas](guiaperguntas.png)
